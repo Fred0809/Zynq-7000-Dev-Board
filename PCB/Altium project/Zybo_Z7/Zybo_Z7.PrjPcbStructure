@@ -1,0 +1,13 @@
+Record=TopLevelDocument|FileName=Audio_Codec.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=DDR3_Memory.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=DDR_and_MIO_Banks.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=Ethernet_and_SD_Card.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=FPGA_Banks_and_Filters.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=FPGA_Config_Flash.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=FPGA_Power.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=HDMI_Sink.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=HDMI_Source.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=MIPI_General_IO.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=PMODs_MIO.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=Power_Regulation.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Audio_Codec.SchDoc|FileName=USB_OTG.SchDoc|SheetNumber=7
